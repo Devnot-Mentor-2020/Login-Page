@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Log In Page</string>
+    <string name="login">Log In</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="signin">Sign in to continue</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_pass">Enter your password</string>
+    <string name="username_">Username</string>
+    <string name="pass">Password</string>
+    <string name="forgot_passs">Forgot Password</string>
+</resources>
